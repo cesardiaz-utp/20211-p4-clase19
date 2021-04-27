@@ -8,7 +8,6 @@ package co.edu.utp.isc.progiv.p4.clase19.decorator.decorators;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.Base64;
 import java.util.zip.Deflater;
 import java.util.zip.DeflaterOutputStream;
